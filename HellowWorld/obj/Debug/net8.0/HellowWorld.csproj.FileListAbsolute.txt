@@ -1,0 +1,15 @@
+/Users/evgenii/Documents/C#/csharp/HellowWorld/bin/Debug/net8.0/HellowWorld
+/Users/evgenii/Documents/C#/csharp/HellowWorld/bin/Debug/net8.0/HellowWorld.deps.json
+/Users/evgenii/Documents/C#/csharp/HellowWorld/bin/Debug/net8.0/HellowWorld.runtimeconfig.json
+/Users/evgenii/Documents/C#/csharp/HellowWorld/bin/Debug/net8.0/HellowWorld.dll
+/Users/evgenii/Documents/C#/csharp/HellowWorld/bin/Debug/net8.0/HellowWorld.pdb
+/Users/evgenii/Documents/C#/csharp/HellowWorld/obj/Debug/net8.0/HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenii/Documents/C#/csharp/HellowWorld/obj/Debug/net8.0/HellowWorld.AssemblyInfoInputs.cache
+/Users/evgenii/Documents/C#/csharp/HellowWorld/obj/Debug/net8.0/HellowWorld.AssemblyInfo.cs
+/Users/evgenii/Documents/C#/csharp/HellowWorld/obj/Debug/net8.0/HellowWorld.csproj.CoreCompileInputs.cache
+/Users/evgenii/Documents/C#/csharp/HellowWorld/obj/Debug/net8.0/HellowWorld.sourcelink.json
+/Users/evgenii/Documents/C#/csharp/HellowWorld/obj/Debug/net8.0/HellowWorld.dll
+/Users/evgenii/Documents/C#/csharp/HellowWorld/obj/Debug/net8.0/refint/HellowWorld.dll
+/Users/evgenii/Documents/C#/csharp/HellowWorld/obj/Debug/net8.0/HellowWorld.pdb
+/Users/evgenii/Documents/C#/csharp/HellowWorld/obj/Debug/net8.0/HellowWorld.genruntimeconfig.cache
+/Users/evgenii/Documents/C#/csharp/HellowWorld/obj/Debug/net8.0/ref/HellowWorld.dll
