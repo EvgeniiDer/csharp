@@ -1,0 +1,15 @@
+/Users/evgenii/Documents/C#/csharp/Chapter_3/bin/Debug/net8.0/Chapter_3
+/Users/evgenii/Documents/C#/csharp/Chapter_3/bin/Debug/net8.0/Chapter_3.deps.json
+/Users/evgenii/Documents/C#/csharp/Chapter_3/bin/Debug/net8.0/Chapter_3.runtimeconfig.json
+/Users/evgenii/Documents/C#/csharp/Chapter_3/bin/Debug/net8.0/Chapter_3.dll
+/Users/evgenii/Documents/C#/csharp/Chapter_3/bin/Debug/net8.0/Chapter_3.pdb
+/Users/evgenii/Documents/C#/csharp/Chapter_3/obj/Debug/net8.0/Chapter_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenii/Documents/C#/csharp/Chapter_3/obj/Debug/net8.0/Chapter_3.AssemblyInfoInputs.cache
+/Users/evgenii/Documents/C#/csharp/Chapter_3/obj/Debug/net8.0/Chapter_3.AssemblyInfo.cs
+/Users/evgenii/Documents/C#/csharp/Chapter_3/obj/Debug/net8.0/Chapter_3.csproj.CoreCompileInputs.cache
+/Users/evgenii/Documents/C#/csharp/Chapter_3/obj/Debug/net8.0/Chapter_3.sourcelink.json
+/Users/evgenii/Documents/C#/csharp/Chapter_3/obj/Debug/net8.0/Chapter_3.dll
+/Users/evgenii/Documents/C#/csharp/Chapter_3/obj/Debug/net8.0/refint/Chapter_3.dll
+/Users/evgenii/Documents/C#/csharp/Chapter_3/obj/Debug/net8.0/Chapter_3.pdb
+/Users/evgenii/Documents/C#/csharp/Chapter_3/obj/Debug/net8.0/Chapter_3.genruntimeconfig.cache
+/Users/evgenii/Documents/C#/csharp/Chapter_3/obj/Debug/net8.0/ref/Chapter_3.dll
